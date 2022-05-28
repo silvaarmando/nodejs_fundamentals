@@ -4,7 +4,7 @@ const app = express()
 
 app.get("/", (request, response) => {
     return response.json({
-        message: "Hello World Node.js!"
+        message: "Hello Guys! Hello World - Fundamentals Node.js"
     })
 })
 
